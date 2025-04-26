@@ -1,0 +1,2 @@
+File in write mode ....6. Joseph 15 Physics
+ File in append mode ....6. Joseph 15 Physics
